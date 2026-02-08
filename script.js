@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
     // END Video Modal Logic
- 
+
 
     // Optional: Add simple fade-in on scroll for sections
     const sections = document.querySelectorAll('section');
