@@ -1123,7 +1123,7 @@ section:last-of-type {
     /* END MODIFIED BLOCK */
 }
 
-
+ 
 /* Tablets and smaller laptops (max-width: 992px) */
 @media (max-width: 992px) {
     h1 { font-size: clamp(2rem, 7vw, 3.5rem); }
